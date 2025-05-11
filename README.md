@@ -17,7 +17,9 @@ Starting guild MACOS environment
 🦭💬 Proprietary environment, sometimes they are open environments with a specific purpose. When somebody tells you to use a proprietary environment, it means securing your code and user rights permissions for your application. All events and states need to be mapped and matched with the display console as a communication device where the user trusts the system by working in scopes of application working they gains more stability and practical in policy because proprietary also meaning they are authorized to perform by application flow and with response you are follows guideline automation. </br>
 👧💬 🎈 Next time, they will not try with a pencil or light tube, it does not work because they are dual circuits, or they detect device input. </br>
 
+<p align="center" width="100%">
 <img width="24%" src="https://github.com/jkaewprateep/start_guild_MACOS_environment/blob/main/Screenshot%202568-05-11%20at%2018.14.59.png">
+</p>
 🐯💬 Culture-INFO, enhance visibility or notation should identify of current directory and file the application is going to access and change, they may look like many console applications, but the enhancement should notify since the developing process same as submitting a designer application or Eclipse with plug-in addons.</br>
 🦁💬 Allow to use with specific scopes, in some working environments, they need to install add-ons to make a wonderful visualization. This is one reason why you need to backup workflow , they allow you to download in XML format or application backup format. Some applications can exchange node configuration with XML export format, and applications in .war .dll or .jar formats. </br>
 
