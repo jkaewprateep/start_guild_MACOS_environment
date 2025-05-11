@@ -14,4 +14,5 @@ Starting guild MACOS environment
 
 <img width="24%" src="https://github.com/jkaewprateep/start_guild_MACOS_environment/blob/main/Screenshot%202568-05-11%20at%2018.14.59.png">
 <img width="24%" src="https://github.com/jkaewprateep/start_guild_MACOS_environment/blob/main/Screenshot%202568-05-11%20at%2018.15.29.png">
+<img width="24%" src="https://github.com/jkaewprateep/start_guild_MACOS_environment/blob/main/FlappyBird_small.gif">
 
