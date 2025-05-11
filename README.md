@@ -23,6 +23,12 @@ Starting guild MACOS environment
 🐯💬 Culture-INFO, enhance visibility or notation should identify of current directory and file the application is going to access and change, they may look like many console applications, but the enhancement should notify since the developing process same as submitting a designer application or Eclipse with plug-in addons.</br>
 🦁💬 Allow to use with specific scopes, in some working environments, they need to install add-ons to make a wonderful visualization. This is one reason why you need to backup workflow , they allow you to download in XML format or application backup format. Some applications can exchange node configuration with XML export format, and applications in .war .dll or .jar formats. </br>
 
+<p align="center" width="100%">
 <img width="24%" src="https://github.com/jkaewprateep/start_guild_MACOS_environment/blob/main/Screenshot%202568-05-11%20at%2018.15.29.png">
+</p>
+🐐💬 Virtual application environment makes our migration easy, and now our application is ready, a few steps from the beginning. We are transferring into new OS environment smoothly and it capable to working in Windows and Linux environments. This may help in the process or where they often change OS platforms for readiness. </br>
+
+<p align="center" width="100%">
 <img width="24%" src="https://github.com/jkaewprateep/start_guild_MACOS_environment/blob/main/FlappyBird_small.gif">
+</p>
 
