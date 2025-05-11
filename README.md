@@ -18,6 +18,9 @@ Starting guild MACOS environment
 👧💬 🎈 Next time, they will not try with a pencil or light tube, it does not work because they are dual circuits, or they detect device input. </br>
 
 <img width="24%" src="https://github.com/jkaewprateep/start_guild_MACOS_environment/blob/main/Screenshot%202568-05-11%20at%2018.14.59.png">
+🐯💬 Culture-INFO, enhance visibility or notation should identify of current directory and file the application is going to access and change, they may look like many console applications, but the enhancement should notify since the developing process same as submitting a designer application or Eclipse with plug-in addons.</br>
+🦁💬 Allow to use with specific scopes, in some working environments, they need to install add-ons to make a wonderful visualization. This is one reason why you need to backup workflow , they allow you to download in XML format or application backup format. Some applications can exchange node configuration with XML export format, and applications in .war .dll or .jar formats. </br>
+
 <img width="24%" src="https://github.com/jkaewprateep/start_guild_MACOS_environment/blob/main/Screenshot%202568-05-11%20at%2018.15.29.png">
 <img width="24%" src="https://github.com/jkaewprateep/start_guild_MACOS_environment/blob/main/FlappyBird_small.gif">
 
